@@ -1,0 +1,7 @@
+undetected_chromedriver
+selenium
+requests
+BeautifulSoup4
+difflib
+pyexiv2
+lxml
